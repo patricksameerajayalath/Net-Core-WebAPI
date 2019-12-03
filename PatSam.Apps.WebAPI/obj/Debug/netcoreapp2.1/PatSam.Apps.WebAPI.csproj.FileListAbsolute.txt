@@ -1,0 +1,17 @@
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.WebAPI\bin\Debug\netcoreapp2.1\PatSam.Apps.WebAPI.deps.json
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.WebAPI\bin\Debug\netcoreapp2.1\PatSam.Apps.WebAPI.runtimeconfig.json
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.WebAPI\bin\Debug\netcoreapp2.1\PatSam.Apps.WebAPI.runtimeconfig.dev.json
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.WebAPI\bin\Debug\netcoreapp2.1\PatSam.Apps.WebAPI.dll
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.WebAPI\bin\Debug\netcoreapp2.1\PatSam.Apps.WebAPI.pdb
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.WebAPI\obj\Debug\netcoreapp2.1\PatSam.Apps.WebAPI.csprojAssemblyReference.cache
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.WebAPI\obj\Debug\netcoreapp2.1\PatSam.Apps.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.WebAPI\obj\Debug\netcoreapp2.1\PatSam.Apps.WebAPI.RazorAssemblyInfo.cache
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.WebAPI\obj\Debug\netcoreapp2.1\PatSam.Apps.WebAPI.RazorAssemblyInfo.cs
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.WebAPI\obj\Debug\netcoreapp2.1\PatSam.Apps.WebAPI.AssemblyInfoInputs.cache
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.WebAPI\obj\Debug\netcoreapp2.1\PatSam.Apps.WebAPI.AssemblyInfo.cs
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.WebAPI\obj\Debug\netcoreapp2.1\PatSam.Apps.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.WebAPI\obj\Debug\netcoreapp2.1\PatSam.Apps.WebAPI.dll
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.WebAPI\obj\Debug\netcoreapp2.1\PatSam.Apps.WebAPI.pdb
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.WebAPI\bin\Debug\netcoreapp2.1\PatSam.Apps.Data.dll
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.WebAPI\bin\Debug\netcoreapp2.1\PatSam.Apps.Data.pdb
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.WebAPI\obj\Debug\netcoreapp2.1\PatSam.Apps.WebAPI.csproj.CopyComplete

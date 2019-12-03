@@ -1,0 +1,11 @@
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.Data\bin\Release\PatSam.Apps.Data.dll
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.Data\bin\Release\PatSam.Apps.Data.pdb
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.Data\bin\Release\Microsoft.EntityFrameworkCore.dll
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.Data\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.Data\bin\Release\Microsoft.EntityFrameworkCore.xml
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.Data\bin\Release\System.ComponentModel.Annotations.xml
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.Data\obj\Release\PatSam.Apps.Data.csprojAssemblyReference.cache
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.Data\obj\Release\PatSam.Apps.Data.csproj.CoreCompileInputs.cache
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.Data\obj\Release\PatSam.Apps.Data.csproj.CopyComplete
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.Data\obj\Release\PatSam.Apps.Data.dll
+C:\Users\psam0403\source\repos\PatSam.Apps\PatSam.Apps.Data\obj\Release\PatSam.Apps.Data.pdb
